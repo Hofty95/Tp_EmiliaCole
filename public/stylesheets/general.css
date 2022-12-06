@@ -1,6 +1,9 @@
 *{
     margin: 0;
 }
+body{
+    font-family: 'open-sands';
+}
 a{
     text-decoration: none;
 }
@@ -12,6 +15,7 @@ ul, ol{
 }
 h1{
     font-family: "raleway",sans-serif;
-    font-size: 72px;
+    font-weight: 700;
+    font-size: 109px;
     text-transform: uppercase;
 }

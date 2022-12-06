@@ -1,9 +1,6 @@
-body{
-  background-color: aquamarine;
-}
-a {
-  text-decoration: none;
-}
-li{
-  list-style: none;
+.index{
+  background-image: url(/images/emilia-home.jpg);
+  background-size: 70%;
+  background-repeat: no-repeat;
+  background-position: right top;
 }
